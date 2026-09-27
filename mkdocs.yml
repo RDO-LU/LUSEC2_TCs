@@ -1,0 +1,12 @@
+site_name: LUSEC- Terms & Conditions
+nav:
+    - Home: index.md
+    - Svenska: index-sv.md
+    
+theme: readthedocs
+
+markdown_extensions:
+  - admonition
+#  - pymdownx.details
+#  - pymdownx.superfences
+
