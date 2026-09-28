@@ -16,13 +16,7 @@ The security controls provided by LUSEC Desktop do not replace the responsibilit
 
 Access to LUSEC Desktop requires acceptance of these Conditions for Use.
 
-## 2\. Authorisation
-
-For the purposes of these Conditions, an action is authorised only when it is permitted by the user's assigned access rights and, where additional approval is required, has been approved by the PI or another person formally authorised to grant such approval.
-
-Technical ability to perform an action does not in itself constitute authorisation. The absence of a technical restriction does not imply permission.
-
-## 3\. Responsibilities of the Principal Investigator
+## 2\. Responsibilities of the Principal Investigator
 
 The PI has overall responsibility for the project's use of LUSEC Desktop and for determining which data may be stored and processed in the project environment.
 
@@ -61,7 +55,7 @@ The PI must:
 * modify or revoke access without undue delay when a user's need changes or ends; and
 * inform users of the requirements that apply to the project's data and use of LUSEC Desktop.
 
-## 4\. Responsibilities of individual users
+## 3\. Responsibilities of individual users
 
 Each user is responsible for activity performed using their account.
 
@@ -69,21 +63,17 @@ Users must:
 
 * use only their own account and authentication credentials;
 * never share passwords, tokens, or other authentication credentials;
-* never allow another person to use or control their authenticated session;
 * protect authenticated sessions from unauthorised access;
 * lock their session and client computer whenever unattended;
-* access and process data only within their assigned role, permissions, and authorised project purpose;
+* access and process only data required for authorised work;
 * comply with their assigned access rights;
-* not access or attempt to access data, projects, systems, accounts, or functions for which they are not authorised;
-* not attempt to obtain additional privileges except through the approved access-request process;
-* stop accessing data and report the matter without undue delay if they discover that access has been granted unintentionally or exceeds their authorised access;
-* import, export, copy, share, or otherwise transfer data only when authorised;
+* import, export, copy, or share data only when authorised;
 * use approved systems, devices, and methods when accessing or handling LUSEC Desktop data; and
-* not circumvent, disable, or attempt to bypass technical or administrative security measures.
+* not circumvent or disable technical or administrative security measures.
 
 Users acknowledge that system activity may be logged and monitored in accordance with applicable Lund University rules and procedures.
 
-## 5\. Client computer security
+## 4\. Client computer security
 
 Users must ensure that computers used to access LUSEC Desktop or its data-transfer functionality meet applicable Lund University security requirements.
 
@@ -94,19 +84,15 @@ Users must, as applicable:
 * use authentication and automatic screen locking;
 * protect the computer from unauthorised access;
 * supervise active LUSEC Desktop sessions or lock them when unattended; and
-* not store or cache protected LUSEC Desktop data locally unless this has been explicitly authorised by the PI or another person formally authorised to grant such approval.
+* not store or cache protected LUSEC Desktop data locally unless explicitly permitted.
 
 The security of the client computer forms part of the overall protection of the data. LUSEC Desktop cannot protect data that have been copied, displayed, or otherwise exposed through an inadequately protected client system.
 
-## 6\. Data transfer, export, and sharing
+## 5\. Data transfer, export, and sharing
 
 Data may only be imported to or exported from LUSEC Desktop using approved transfer mechanisms. Transfers may be logged.
 
-Import, export, copying, and sharing of protected research data must be limited to what is necessary and authorised for the project. This requirement also applies to transfers between separate LUSEC Desktop project environments.
-
-For the purposes of these Conditions, a transfer includes any action that makes protected data available outside its authorised environment. This includes downloading, copying and pasting, uploading, printing, screen capture, photographing a display, transmitting data, or otherwise reproducing or disclosing protected data outside the authorised environment.
-
-Protected data must not be entered, pasted, uploaded, transmitted, or otherwise exposed to external services, including cloud, AI, translation, or other online services, unless this has been explicitly authorised for the data and purpose concerned.
+Import, export, and sharing of protected research data must be limited to what is necessary and authorised for the project.
 
 Before data are exported, copied, shared, or otherwise transferred outside LUSEC Desktop, the PI must ensure that:
 
@@ -119,9 +105,9 @@ Protected data must not be transferred to private computers, private cloud servi
 
 Where technically possible, import and export permissions should be managed separately from general read and write permissions.
 
-## 7\. Software and execution environment
+## 6\. Software and execution environment
 
-Software within LUSEC Desktop is provided through approved software environments and repositories. Users may only install or introduce additional software or code through approved mechanisms and where this is permitted for their role and project.
+Software within LUSEC Desktop is provided through approved software environments and repositories.
 
 Users must not install, introduce, or execute software or code that:
 
@@ -131,11 +117,9 @@ Users must not install, introduce, or execute software or code that:
 * may damage the system, its data, or other users; or
 * otherwise violates Lund University regulations or these Conditions for Use.
 
-## 8\. Security incidents and deviations
+## 7\. Security incidents and deviations
 
-Suspected or confirmed information-security incidents must be reported without undue delay using Lund University's applicable incident-reporting procedures. Users must not wait for an incident to be confirmed before reporting a reasonable suspicion.
-
-Credentials that may have been disclosed, lost, phished, or otherwise compromised must be reported without undue delay, even if no unauthorised use has been detected.
+Suspected or confirmed information-security incidents must be reported without undue delay using Lund University's applicable incident-reporting procedures.
 
 Examples include:
 
@@ -149,7 +133,7 @@ Examples include:
 
 The PI and affected users must cooperate with investigations and remediation measures relating to the project or its data.
 
-## 9\. Data retention, archiving, and project closure
+## 8\. Data retention, archiving, and project closure
 
 The PI must ensure that applicable requirements for retaining, archiving, and deleting research data are identified and followed.
 
@@ -160,7 +144,7 @@ When the project ends or LUSEC Desktop is no longer required:
 * user access must be reviewed and revoked where no longer required; and
 * the project or storage area must be closed when there is no longer a legitimate need for it.
 
-## 10\. Changes during the project
+## 9\. Changes during the project
 
 These responsibilities apply throughout the lifetime of the project.
 
@@ -176,7 +160,7 @@ The PI must reassess whether LUSEC Desktop remains appropriate when relevant cir
 
 If the required level of protection exceeds what LUSEC Desktop provides, the affected data must not continue to be processed in LUSEC Desktop unless an appropriate solution has been established.
 
-## 11\. Responsibilities of the service provider
+## 10\. Responsibilities of the service provider
 
 Lund University Research Data Office (LU RDO) is responsible for the technical and administrative security measures included in the LUSEC Desktop service, as defined in the applicable service description.
 
@@ -184,15 +168,13 @@ Providing a secure technical environment does not transfer responsibility for th
 
 The PI remains responsible for ensuring that LUSEC Desktop is appropriate for the project's data and is used in accordance with these Conditions for Use.
 
-## 12\. Logging and monitoring
+## 11\. Logging and monitoring
 
 Activities within LUSEC Desktop may be logged for security, operational, and compliance purposes.
 
-Depending on the technical configuration, logging may include, but is not limited to, authentication events, data transfers, network activity, administrative actions, commands, and other activities performed within the system.
+Depending on the technical configuration, logging may include authentication events, data transfers, network activity, administrative actions, commands, and other activities performed within the system.
 
-Where necessary to protect the service, its users, or its data, access may be temporarily restricted, suspended, or revoked in response to suspected or confirmed non-compliance with these Conditions, subject to applicable Lund University rules and procedures.
-
-## 13\. Acceptance
+## 12\. Acceptance
 
 Access to LUSEC Desktop is granted only after the applicable Conditions for Use have been accepted.
 
